@@ -13,7 +13,6 @@ Utilises the free tier of HuggingFace Inference API. May stop working near the e
 
 ```
 /emo I love you
-
 ```
 
 ### Output:
