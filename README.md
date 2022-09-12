@@ -4,7 +4,7 @@
 
 A basic serverless [Telegram bot](https://core.telegram.org/bots) using [Google Cloud Functions](https://cloud.google.com/functions/).
 
-Add me to groups and type `/emo` followed by a sentence you wish to be analysed for its evoked emotions. Original model from [Arpan Ghoshal's HugginFace model](https://huggingface.co/arpanghoshal/EmoRoBERTa). Contact [@incomple](https://t.me/Incomple) for feedback and suggestions.
+[Add me to groups](https://t.me/EmoRoBERTaBot) and type `/emo` followed by a sentence you wish to be analysed for its evoked emotions. Original model from [Arpan Ghoshal's HugginFace model](https://huggingface.co/arpanghoshal/EmoRoBERTa). Contact [@incomple](https://t.me/Incomple) for feedback and suggestions.
 
 Utilises the free tier of HuggingFace Inference API. May stop working near the end of each month if the 30k character/month quota runs out.
 
